@@ -1,0 +1,3 @@
+AH_EXT /home/dw/AHXT/log_files 15
+AH_EXT /home/ddw/AXT/daily_files 10
+
